@@ -1,6 +1,6 @@
 <?php
 
-class Test Extends BaseTest{
+class Test Extends BaseTest{ 
 	/** @var Test $_test */
 	private $_test;
 	
