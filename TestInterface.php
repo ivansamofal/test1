@@ -8,4 +8,5 @@
 
 interface TestInterface {
     function doSomeThingNew();
+    public function EchoTest();
 }

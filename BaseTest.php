@@ -14,4 +14,8 @@ class BaseTest implements TestInterface{
     public function doSomeThingNew(){
         echo 300;
     }
+
+    public function EchoTest(){
+
+    }
 }
