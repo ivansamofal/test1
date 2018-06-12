@@ -6,12 +6,12 @@
  * Time: 13:14
  */
 
-class BaseTest {
+class BaseTest implements TestInterface{
     public function CheckSomething(){
         $this->doSomeThingNew();
     }
 
-    private function doSomeThingNew(){
+    public function doSomeThingNew(){
         echo 300;
     }
 }

@@ -1,7 +1,6 @@
 <?php
-
-class Test Extends BaseTest{ 
-	/** @var Test $_test */
+class Test extends BaseTest{
+	
 	private $_test;
 	
 	public function __construct($test){
