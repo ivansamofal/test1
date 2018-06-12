@@ -8,10 +8,10 @@
 
 class BaseTest {
     public function CheckSomething(){
-        $this->doSomeThing();
+        $this->doSomeThingNew();
     }
 
-    private function doSomeThing(){
+    private function doSomeThingNew(){
         echo 300;
     }
 }
