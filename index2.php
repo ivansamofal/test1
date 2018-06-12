@@ -1,6 +1,10 @@
 <?php
-class Test Extenda BaseTest{
+class Test Extends BaseTest{
 	
-	private $test;
+	private $_test;
+	
+	public function __construct($test){
+		$this->_test = $test;
+	}
 	
 }
