@@ -14,4 +14,8 @@ class BaseTest {
     private function doSomeThingNew(){
         echo 300;
     }
+
+    public function EchoTest(){
+
+    }
 }
