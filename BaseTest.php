@@ -18,4 +18,8 @@ class BaseTest {
     public function EchoTest(){
 
     }
+
+    public function some(){
+
+    }
 }

@@ -9,4 +9,5 @@
 interface TestInterface {
     function doSomeThingNew();
     public function EchoTest();
+    public function some();
 }
